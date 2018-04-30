@@ -1,0 +1,1430 @@
+{
+  "name": "continents",
+  "children": [
+            {
+              "name": "africa",
+              "children": [
+                {
+                  "continent": "africa",
+                  "name": "Nigeria",
+                  "income": 5607,
+                  "life_exp": 63.7,
+                  "population": 176460502,
+                  "gdp": 573.652
+                },
+                {
+                  "continent": "africa",
+                  "name": "Mauritania",
+                  "income": 3718,
+                  "life_exp": 69.6,
+                  "population": 4063920
+                },
+                {
+                  "continent": "africa",
+                  "name": "Congo, Dem. Rep.",
+                  "income": 768,
+                  "life_exp": 60.1,
+                  "population": 73722860
+                },
+                {
+                  "continent": "africa",
+                  "name": "Mali",
+                  "income": 1653,
+                  "life_exp": 60,
+                  "population": 16962846
+                },
+                {
+                  "continent": "africa",
+                  "name": "Malawi",
+                  "income": 778,
+                  "life_exp": 60.1,
+                  "population": 17068838
+                },
+                {
+                  "continent": "africa",
+                  "name": "Libya",
+                  "income": 14887,
+                  "life_exp": 75,
+                  "population": 6204108
+                },
+                {
+                  "continent": "africa",
+                  "name": "Mozambique",
+                  "income": 1115,
+                  "life_exp": 56.1,
+                  "population": 27212382
+                },
+                {
+                  "continent": "africa",
+                  "name": "Equatorial Guinea",
+                  "income": 30783,
+                  "life_exp": 61,
+                  "population": 1129424
+                },
+                {
+                  "continent": "africa",
+                  "name": "Lesotho",
+                  "income": 2494,
+                  "life_exp": 45.4,
+                  "population": 2145785
+                },
+                {
+                  "continent": "africa",
+                  "name": "Liberia",
+                  "income": 934,
+                  "life_exp": 61.8,
+                  "population": 4390737
+                },
+                {
+                  "continent": "africa",
+                  "name": "South Africa",
+                  "income": 12446,
+                  "life_exp": 61.2,
+                  "population": 54539571,
+                  "gdp": 350.082
+                },
+                {
+                  "continent": "africa",
+                  "name": "Guinea-Bissau",
+                  "income": 1363,
+                  "life_exp": 55.3,
+                  "population": 1725744
+                },
+                {
+                  "continent": "africa",
+                  "name": "Guinea",
+                  "income": 1179,
+                  "life_exp": 58.6,
+                  "population": 11805509
+                },
+                {
+                  "continent": "africa",
+                  "name": "Burkina Faso",
+                  "income": 1606,
+                  "life_exp": 60.6,
+                  "population": 17585977
+                },
+                {
+                  "continent": "africa",
+                  "name": "Botswana",
+                  "income": 16725,
+                  "life_exp": 57.3,
+                  "population": 2168573
+                },
+                {
+                  "continent": "africa",
+                  "name": "Cote d'Ivoire",
+                  "income": 3324,
+                  "life_exp": 58.5,
+                  "population": 22531350
+                },
+                {
+                  "continent": "africa",
+                  "name": "Burundi",
+                  "income": 758,
+                  "life_exp": 61.4,
+                  "population": 9891790
+                },
+                {
+                  "continent": "africa",
+                  "name": "Congo, Rep.",
+                  "income": 5905,
+                  "life_exp": 61.5,
+                  "population": 4871101
+                },
+                {
+                  "continent": "africa",
+                  "name": "Benin",
+                  "income": 1779,
+                  "life_exp": 62,
+                  "population": 10286712
+                },
+                {
+                  "continent": "africa",
+                  "name": "Uganda",
+                  "income": 1638,
+                  "life_exp": 60.7,
+                  "population": 38833338
+                },
+                {
+                  "continent": "africa",
+                  "name": "Swaziland",
+                  "income": 6058,
+                  "life_exp": 49.8,
+                  "population": 1295097
+                },
+                {
+                  "continent": "africa",
+                  "name": "Djibouti",
+                  "income": 3016,
+                  "life_exp": 63.1,
+                  "population": 912164
+                },
+                {
+                  "continent": "africa",
+                  "name": "Namibia",
+                  "income": 9506,
+                  "life_exp": 64.1,
+                  "population": 2370992
+                },
+                {
+                  "continent": "africa",
+                  "name": "Kenya",
+                  "income": 2776,
+                  "life_exp": 65,
+                  "population": 46024250
+                },
+                {
+                  "continent": "africa",
+                  "name": "Ghana",
+                  "income": 3953,
+                  "life_exp": 64.8,
+                  "population": 26962563
+                },
+                {
+                  "continent": "africa",
+                  "name": "Angola",
+                  "income": 7546,
+                  "life_exp": 59.2,
+                  "population": 26920466
+                },
+                {
+                  "continent": "africa",
+                  "name": "Eritrea",
+                  "income": 1140,
+                  "life_exp": 60.6,
+                  "population": 4746045
+                },
+                {
+                  "continent": "africa",
+                  "name": "Comoros",
+                  "income": 1459,
+                  "life_exp": 68,
+                  "population": 759385
+                },
+                {
+                  "continent": "africa",
+                  "name": "South Sudan",
+                  "income": 2574,
+                  "life_exp": 56.1,
+                  "population": 11530971
+                },
+                {
+                  "continent": "africa",
+                  "name": "Chad",
+                  "income": 2141,
+                  "life_exp": 56.8,
+                  "population": 13569438
+                },
+                {
+                  "continent": "africa",
+                  "name": "Algeria",
+                  "income": 13179,
+                  "life_exp": 76.3,
+                  "population": 39113313,
+                  "gdp": 214.080
+                },
+                {
+                  "continent": "africa",
+                  "name": "Togo",
+                  "income": 1387,
+                  "life_exp": 61.1,
+                  "population": 7228915
+                },
+                {
+                  "continent": "africa",
+                  "name": "Morocco",
+                  "income": 7040,
+                  "life_exp": 74.4,
+                  "population": 34318082
+                },
+                {
+                  "continent": "africa",
+                  "name": "Madagascar",
+                  "income": 1371,
+                  "life_exp": 63.3,
+                  "population": 23589801
+                },
+                {
+                  "continent": "africa",
+                  "name": "Ethiopia",
+                  "income": 1432,
+                  "life_exp": 64.7,
+                  "population": 97366774
+                },
+                {
+                  "continent": "africa",
+                  "name": "Niger",
+                  "income": 923,
+                  "life_exp": 60.7,
+                  "population": 19148219
+                },
+                {
+                  "continent": "africa",
+                  "name": "Gabon",
+                  "income": 17912,
+                  "life_exp": 65,
+                  "population": 1875713
+                },
+                {
+                  "continent": "africa",
+                  "name": "Cameroon",
+                  "income": 2829,
+                  "life_exp": 59.1,
+                  "population": 22239904
+                },
+                {
+                  "continent": "africa",
+                  "name": "Central African Republic",
+                  "income": 578,
+                  "life_exp": 48.2,
+                  "population": 4515392
+                },
+                {
+                  "continent": "africa",
+                  "name": "Egypt",
+                  "income": 10792,
+                  "life_exp": 71.3,
+                  "population": 91812566,
+                  "gdp": 286.435
+                },
+                {
+                  "continent": "africa",
+                  "name": "Mauritius",
+                  "income": 17731,
+                  "life_exp": 74.3,
+                  "population": 1257219
+                },
+                {
+                  "continent": "africa",
+                  "name": "Cape Verde",
+                  "income": 6343,
+                  "life_exp": 72.7,
+                  "population": 526437
+                },
+                {
+                  "continent": "africa",
+                  "name": "Gambia",
+                  "income": 1555,
+                  "life_exp": 68,
+                  "population": 1917852
+                },
+                {
+                  "continent": "africa",
+                  "name": "Rwanda",
+                  "income": 1485,
+                  "life_exp": 65.7,
+                  "population": 11345357
+                },
+                {
+                  "continent": "africa",
+                  "name": "Zambia",
+                  "income": 3898,
+                  "life_exp": 56.3,
+                  "population": 15620974
+                },
+                {
+                  "continent": "africa",
+                  "name": "Sao Tome and Principe",
+                  "income": 2923,
+                  "life_exp": 67.8,
+                  "population": 191266
+                },
+                {
+                  "continent": "africa",
+                  "name": "Tanzania",
+                  "income": 2472,
+                  "life_exp": 63.3,
+                  "population": 52234869
+                },
+                {
+                  "continent": "africa",
+                  "name": "Senegal",
+                  "income": 2206,
+                  "life_exp": 65,
+                  "population": 14546111
+                },
+                {
+                  "continent": "africa",
+                  "name": "Seychelles",
+                  "income": 25038,
+                  "life_exp": 74,
+                  "population": 93254
+                },
+                {
+                  "continent": "africa",
+                  "name": "Sierra Leone",
+                  "income": 1959,
+                  "life_exp": 55.2,
+                  "population": 7079162
+                },
+                {
+                  "continent": "africa",
+                  "name": "Somalia",
+                  "income": 621,
+                  "life_exp": 54.3,
+                  "population": 13513125
+                },
+                {
+                  "continent": "africa",
+                  "name": "Sudan",
+                  "income": 3940,
+                  "life_exp": 67.2,
+                  "population": 37737913
+                },
+                {
+                  "continent": "africa",
+                  "name": "Tunisia",
+                  "income": 10825,
+                  "life_exp": 77.6,
+                  "population": 11143908
+                },
+                {
+                  "continent": "africa",
+                  "name": "Zimbabwe",
+                  "income": 1773,
+                  "life_exp": 57,
+                  "population": 15411675
+                }
+              ]
+            }, {
+              "name": "asia",
+              "children": [
+                {
+                  "continent": "asia",
+                  "name": "Philippines",
+                  "income": 6598,
+                  "life_exp": 70.7,
+                  "population": 100102249,
+                  "gdp": 284.927
+                },
+                {
+                  "continent": "asia",
+                  "name": "Pakistan",
+                  "income": 4619,
+                  "life_exp": 65.6,
+                  "population": 185546257,
+                  "gdp": 250.136
+                },
+                {
+                  "continent": "asia",
+                  "name": "Papua New Guinea",
+                  "income": 2510,
+                  "life_exp": 60.5,
+                  "population": 7755785
+                },
+                {
+                  "continent": "asia",
+                  "name": "Taiwan",
+                  "income": 41376,
+                  "life_exp": 79.4,
+                  "population": 23184000
+                },
+                {
+                  "continent": "asia",
+                  "name": "New Zealand",
+                  "income": 33538,
+                  "life_exp": 81.4,
+                  "population": 4566700
+                },
+                {
+                  "continent": "asia",
+                  "name": "Malaysia",
+                  "income": 23579,
+                  "life_exp": 75.1,
+                  "population": 30228017,
+                  "gdp": 326.933
+                },
+                {
+                  "continent": "asia",
+                  "name": "Oman",
+                  "income": 48201,
+                  "life_exp": 77,
+                  "population": 3960925
+                },
+                {
+                  "continent": "asia",
+                  "name": "Maldives",
+                  "income": 14095,
+                  "life_exp": 80,
+                  "population": 408247
+                },
+                {
+                  "continent": "asia",
+                  "name": "Macao, China",
+                  "income": 142893,
+                  "life_exp": 80.61,
+                  "population": 588781
+                },
+                {
+                  "continent": "asia",
+                  "name": "Kyrgyz Republic",
+                  "income": 3169,
+                  "life_exp": 69.6,
+                  "population": 5774566
+                },
+                {
+                  "continent": "asia",
+                  "name": "Kiribati",
+                  "income": 1822,
+                  "life_exp": 62.8,
+                  "population": 110458
+                },
+                {
+                  "continent": "asia",
+                  "name": "Jordan",
+                  "income": 11496,
+                  "life_exp": 78.4,
+                  "population": 8809306
+                },
+                {
+                  "continent": "asia",
+                  "name": "Mongolia",
+                  "income": 11509,
+                  "life_exp": 66.8,
+                  "population": 2923896
+                },
+                {
+                  "continent": "asia",
+                  "name": "Israel",
+                  "income": 31180,
+                  "life_exp": 81.3,
+                  "population": 7941329,
+                  "gdp": 303.771
+                },
+                {
+                  "continent": "asia",
+                  "name": "Japan",
+                  "income": 35635,
+                  "life_exp": 83.1,
+                  "population": 128162873,
+                  "gdp": 4616.335
+                },
+                {
+                  "continent": "asia",
+                  "name": "Iran",
+                  "income": 15573,
+                  "life_exp": 74.6,
+                  "population": 78411092,
+                  "gdp": 404.132
+                },
+                {
+                  "continent": "asia",
+                  "name": "India",
+                  "income": 5565,
+                  "life_exp": 66.9,
+                  "population": 1293859294,
+                  "gdp": 2049.501
+                },
+                {
+                  "continent": "asia",
+                  "name": "Fiji",
+                  "income": 7735,
+                  "life_exp": 65.7,
+                  "population": 885806
+                },
+                {
+                  "continent": "asia",
+                  "name": "Hong Kong, China",
+                  "income": 52552,
+                  "life_exp": 83.56,
+                  "population": 7194563,
+                  "gdp": 289.628
+                },
+                {
+                  "continent": "asia",
+                  "name": "Vanuatu",
+                  "income": 2837,
+                  "life_exp": 64.7,
+                  "population": 258850
+                },
+                {
+                  "continent": "asia",
+                  "name": "Tajikistan",
+                  "income": 2533,
+                  "life_exp": 71.9,
+                  "population": 8362745
+                },
+                {
+                  "continent": "asia",
+                  "name": "Micronesia, Fed. Sts.",
+                  "income": 3475,
+                  "life_exp": 68.8,
+                  "population": 104015
+                },
+                {
+                  "continent": "asia",
+                  "name": "Lao",
+                  "income": 4925,
+                  "life_exp": 66.6,
+                  "population": 6576397
+                },
+                {
+                  "continent": "asia",
+                  "name": "Nepal",
+                  "income": 2265,
+                  "life_exp": 70.2,
+                  "population": 28323241
+                },
+                {
+                  "continent": "asia",
+                  "name": "Australia",
+                  "income": 43219,
+                  "life_exp": 82.3,
+                  "population": 23474668,
+                  "gdp": 1444.189
+                },
+                {
+                  "continent": "asia",
+                  "name": "Kuwait",
+                  "income": 83394,
+                  "life_exp": 80.2,
+                  "population": 3782450
+                },
+                {
+                  "continent": "asia",
+                  "name": "Brunei",
+                  "income": 72219,
+                  "life_exp": 77.1,
+                  "population": 411704
+                },
+                {
+                  "continent": "asia",
+                  "name": "Bhutan",
+                  "income": 7500,
+                  "life_exp": 72.4,
+                  "population": 776448
+                },
+                {
+                  "continent": "asia",
+                  "name": "Marshall Islands",
+                  "income": 3638,
+                  "life_exp": 66.7,
+                  "population": 52898
+                },
+                {
+                  "continent": "asia",
+                  "name": "Palestine",
+                  "income": 4493,
+                  "life_exp": 74.5,
+                  "population": 4537425
+                },
+                {
+                  "continent": "asia",
+                  "name": "Myanmar",
+                  "income": 3727,
+                  "life_exp": 67.6,
+                  "population": 51924182
+                },
+                {
+                  "continent": "asia",
+                  "name": "Kazakhstan",
+                  "income": 23092,
+                  "life_exp": 70.2,
+                  "population": 17487779,
+                  "gdp": 212.260
+                },
+                {
+                  "continent": "asia",
+                  "name": "Lebanon",
+                  "income": 16794,
+                  "life_exp": 78.7,
+                  "population": 5603279
+                },
+                {
+                  "continent": "asia",
+                  "name": "Iraq",
+                  "income": 14018,
+                  "life_exp": 67.7,
+                  "population": 35006080,
+                  "gdp": 221.130
+                },
+                {
+                  "continent": "asia",
+                  "name": "United Arab Emirates",
+                  "income": 60578,
+                  "life_exp": 75.4,
+                  "population": 9070867,
+                  "gdp": 401.647
+                },
+                {
+                  "continent": "asia",
+                  "name": "North Korea",
+                  "income": 1391,
+                  "life_exp": 71.9,
+                  "population": 25116363,
+                  "gdp": 1416.949
+                },
+                {
+                  "continent": "asia",
+                  "name": "Afghanistan",
+                  "income": 1877,
+                  "life_exp": 54.9,
+                  "population": 32758020
+                },
+                {
+                  "continent": "asia",
+                  "name": "Bahrain",
+                  "income": 43963,
+                  "life_exp": 79.1,
+                  "population": 1336397
+                },
+                {
+                  "continent": "asia",
+                  "name": "Cambodia",
+                  "income": 3093,
+                  "life_exp": 69.1,
+                  "population": 15270790
+                },
+                {
+                  "continent": "asia",
+                  "name": "Bangladesh",
+                  "income": 2991,
+                  "life_exp": 70.1,
+                  "population": 159405279
+                },
+                {
+                  "continent": "asia",
+                  "name": "China",
+                  "income": 12609,
+                  "life_exp": 75.9,
+                  "population": 1390110388,
+                  "gdp": 10380.380
+                },
+                {
+                  "continent": "asia",
+                  "name": "Indonesia",
+                  "income": 10099,
+                  "life_exp": 70.8,
+                  "population": 255131116,
+                  "gdp": 888.648
+                },
+                {
+                  "continent": "asia",
+                  "name": "Singapore",
+                  "income": 78958,
+                  "life_exp": 81.9,
+                  "population": 5448342,
+                  "gdp": 308.051
+                },
+                {
+                  "continent": "asia",
+                  "name": "Vietnam",
+                  "income": 5370,
+                  "life_exp": 75.2,
+                  "population": 92544915
+                },
+                {
+                  "continent": "asia",
+                  "name": "Qatar",
+                  "income": 133563,
+                  "life_exp": 79.8,
+                  "population": 2374419,
+                  "gdp": 210.002
+                },
+                {
+                  "continent": "asia",
+                  "name": "Samoa",
+                  "income": 5525,
+                  "life_exp": 73.1,
+                  "population": 192290
+                },
+                {
+                  "continent": "asia",
+                  "name": "Saudi Arabia",
+                  "income": 52096,
+                  "life_exp": 79.4,
+                  "population": 30776722,
+                  "gdp": 752.459
+                },
+                {
+                  "continent": "asia",
+                  "name": "Solomon Islands",
+                  "income": 2030,
+                  "life_exp": 63.6,
+                  "population": 575504
+                },
+                {
+                  "continent": "asia",
+                  "name": "South Korea",
+                  "income": 33629,
+                  "life_exp": 80.9,
+                  "population": 50385560
+                },
+                {
+                  "continent": "asia",
+                  "name": "Sri Lanka",
+                  "income": 10043,
+                  "life_exp": 77.4,
+                  "population": 20623564
+                },
+                {
+                  "continent": "asia",
+                  "name": "Syria",
+                  "income": 4300,
+                  "life_exp": 67.2,
+                  "population": 19203090
+                },
+                {
+                  "continent": "asia",
+                  "name": "Thailand",
+                  "income": 13986,
+                  "life_exp": 74.6,
+                  "population": 68416772,
+                  "gdp": 373.804
+                },
+                {
+                  "continent": "asia",
+                  "name": "Timor-Leste",
+                  "income": 2173,
+                  "life_exp": 72.3,
+                  "population": 1212814
+                },
+                {
+                  "continent": "asia",
+                  "name": "Tonga",
+                  "income": 4962,
+                  "life_exp": 71.3,
+                  "population": 105782
+                },
+                {
+                  "continent": "asia",
+                  "name": "Turkmenistan",
+                  "income": 14762,
+                  "life_exp": 69.6,
+                  "population": 5466241
+                },
+                {
+                  "continent": "asia",
+                  "name": "Uzbekistan",
+                  "income": 5320,
+                  "life_exp": 71.5,
+                  "population": 30499618
+                },
+                {
+                  "continent": "asia",
+                  "name": "Yemen",
+                  "income": 3866,
+                  "life_exp": 67.1,
+                  "population": 26246327
+                }
+              ]
+              }, {
+                "name": "europe",
+                "children": [
+                  {
+                    "continent": "europe",
+                    "name": "Ukraine",
+                    "income": 8267,
+                    "life_exp": 71.3,
+                    "population": 44883426
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Turkey",
+                    "income": 18884,
+                    "life_exp": 79.1,
+                    "population": 77030628,
+                    "gdp": 806.108
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Sweden",
+                    "income": 44029,
+                    "life_exp": 82.1,
+                    "population": 9689376,
+                    "gdp": 570.137
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Spain",
+                    "income": 32270,
+                    "life_exp": 82.5,
+                    "population": 46521827,
+                    "gdp": 1406.855
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Slovenia",
+                    "income": 28059,
+                    "life_exp": 80.8,
+                    "population": 2070845
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Russia",
+                    "income": 23293,
+                    "life_exp": 70.9,
+                    "population": 143761378,
+                    "gdp": 1857.461
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Romania",
+                    "income": 18569,
+                    "life_exp": 75.1,
+                    "population": 19972736
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Portugal",
+                    "income": 26055,
+                    "life_exp": 80.7,
+                    "population": 10471168,
+                    "gdp": 230.012
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Poland",
+                    "income": 23952,
+                    "life_exp": 77.4,
+                    "population": 38293060,
+                    "gdp": 546.644
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Finland",
+                    "income": 38569,
+                    "life_exp": 80.9,
+                    "population": 5459717,
+                    "gdp": 271.165
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Czech Republic",
+                    "income": 28695,
+                    "life_exp": 78.6,
+                    "population": 10598526
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Serbia",
+                    "income": 12717,
+                    "life_exp": 75.9,
+                    "population": 8884712
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Lithuania",
+                    "income": 25708,
+                    "life_exp": 75,
+                    "population": 2961846
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Croatia",
+                    "income": 20060,
+                    "life_exp": 77.8,
+                    "population": 4257533
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Switzerland",
+                    "income": 55776,
+                    "life_exp": 82.9,
+                    "population": 8229629,
+                    "gdp": 712.050
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Moldova",
+                    "income": 4754,
+                    "life_exp": 73.6,
+                    "population": 4069939
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Latvia",
+                    "income": 22460,
+                    "life_exp": 75.2,
+                    "population": 2016125
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Azerbaijan",
+                    "income": 16710,
+                    "life_exp": 72.5,
+                    "population": 9503771
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Montenegro",
+                    "income": 14358,
+                    "life_exp": 77.1,
+                    "population": 627674
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Belarus",
+                    "income": 17349,
+                    "life_exp": 70.7,
+                    "population": 9484851
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Andorra",
+                    "income": 44929,
+                    "life_exp": 84.8,
+                    "population": 79223
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Albania",
+                    "income": 10160,
+                    "life_exp": 77.9,
+                    "population": 2920775
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Greenland",
+                    "income": 27216,
+                    "life_exp": 72,
+                    "population": 56382
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Georgia",
+                    "income": 7233,
+                    "life_exp": 72.6,
+                    "population": 3992346
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Estonia",
+                    "income": 25865,
+                    "life_exp": 77.6,
+                    "population": 1318359
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "United Kingdom",
+                    "income": 37614,
+                    "life_exp": 80.9,
+                    "population": 65015686,
+                    "gdp": 2945.146
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Greece",
+                    "income": 24502,
+                    "life_exp": 81,
+                    "population": 11264726,
+                    "gdp": 238.023
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Belgium",
+                    "income": 40885,
+                    "life_exp": 80.5,
+                    "population": 11219161,
+                    "gdp": 534.672
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Slovak Republic",
+                    "income": 26355,
+                    "life_exp": 77.4,
+                    "population": 5432841
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Cyprus",
+                    "income": 29673,
+                    "life_exp": 81.7,
+                    "population": 1152309
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Germany",
+                    "income": 43444,
+                    "life_exp": 80.7,
+                    "population": 81489660,
+                    "gdp": 3859.547
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Bulgaria",
+                    "income": 16048,
+                    "life_exp": 74.7,
+                    "population": 7222145
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Bosnia and Herzegovina",
+                    "income": 9516,
+                    "life_exp": 78.7,
+                    "population": 3566002
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Denmark",
+                    "income": 42777,
+                    "life_exp": 80.3,
+                    "population": 5663914,
+                    "gdp": 340.806
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Luxembourg",
+                    "income": 88203,
+                    "life_exp": 82.1,
+                    "population": 556316
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Hungary",
+                    "income": 23609,
+                    "life_exp": 76.5,
+                    "population": 9813335
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Iceland",
+                    "income": 41237,
+                    "life_exp": 83.3,
+                    "population": 328459
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Italy",
+                    "income": 33078,
+                    "life_exp": 82.1,
+                    "population": 59585668,
+                    "gdp": 2147.952
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Ireland",
+                    "income": 46633,
+                    "life_exp": 81.6,
+                    "population": 4686347,
+                    "gdp": 246.438
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "France",
+                    "income": 37218,
+                    "life_exp": 81.7,
+                    "population": 64190638,
+                    "gdp": 2846.889
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Macedonia, FYR",
+                    "income": 12096,
+                    "life_exp": 76.2,
+                    "population": 2077495
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Armenia",
+                    "income": 7763,
+                    "life_exp": 74.5,
+                    "population": 2906220
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Malta",
+                    "income": 29508,
+                    "life_exp": 82,
+                    "population": 425570
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Austria",
+                    "income": 43906,
+                    "life_exp": 81.2,
+                    "population": 8633220,
+                    "gdp": 437.123
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Netherlands",
+                    "income": 45281,
+                    "life_exp": 81.3,
+                    "population": 16889356,
+                    "gdp": 866.354
+                  },
+                  {
+                    "continent": "europe",
+                    "name": "Norway",
+                    "income": 64020,
+                    "life_exp": 82,
+                    "population": 5140311,
+                    "gdp": 500.244
+                  }
+                ]
+                }, {
+                  "name": "americas",
+                  "children": [
+                    {
+                      "continent": "americas",
+                      "name": "Venezuela",
+                      "income": 16666,
+                      "life_exp": 74.8,
+                      "population": 30738378
+                    },
+                    {
+                      "continent": "americas",
+                      "name": "Uruguay",
+                      "income": 19929,
+                      "life_exp": 76.6,
+                      "population": 3419546
+                    },
+                    {
+                      "continent": "americas",
+                      "name": "United States",
+                      "income": 52118,
+                      "life_exp": 79.1,
+                      "population": 317718779,
+                      "gdp": 17418.925
+                    },
+                    {
+                      "continent": "americas",
+                      "name": "Suriname",
+                      "income": 16649,
+                      "life_exp": 71.8,
+                      "population": 547928
+                    },
+                    {
+                      "continent": "americas",
+                      "name": "St. Lucia",
+                      "income": 9917,
+                      "life_exp": 74.8,
+                      "population": 176421
+                    },
+                    {
+                      "continent": "americas",
+                      "name": "Puerto Rico",
+                      "income": 33649,
+                      "life_exp": 78.2,
+                      "population": 3680715
+                    },
+                    {
+                      "continent": "americas",
+                      "name": "Ecuador",
+                      "income": 10774,
+                      "life_exp": 75.8,
+                      "population": 15903112
+                    },
+                    {
+                      "continent": "americas",
+                      "name": "Barbados",
+                      "income": 12829,
+                      "life_exp": 75.6,
+                      "population": 283385
+                    },
+                    {
+                      "continent": "americas",
+                      "name": "El Salvador",
+                      "income": 7613,
+                      "life_exp": 74.8,
+                      "population": 6281189
+                    }, {
+                    "continent": "americas",
+                    "name": "Bahamas",
+                    "income": 22439,
+                    "life_exp": 73.5,
+                    "population": 382169
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Belize",
+                    "income": 8418,
+                    "life_exp": 71.5,
+                    "population": 351694
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Chile",
+                    "income": 21967,
+                    "life_exp": 79.2,
+                    "population": 17613798,
+                    "gdp": 257.968
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Dominican Republic",
+                    "income": 12505,
+                    "life_exp": 75.1,
+                    "population": 10405844
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Peru",
+                    "income": 11514,
+                    "life_exp": 79.3,
+                    "population": 30973354
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Aruba",
+                    "income": 36447,
+                    "life_exp": 75.59,
+                    "population": 103795
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Dominica",
+                    "income": 10207,
+                    "life_exp": 73,
+                    "population": 72778
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Trinidad and Tobago",
+                    "income": 29820,
+                    "life_exp": 72.3,
+                    "population": 1354493
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Antigua and Barbuda",
+                    "income": 20797,
+                    "life_exp": 76.3,
+                    "population": 98875
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Honduras",
+                    "income": 4214,
+                    "life_exp": 72.8,
+                    "population": 8809216
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Panama",
+                    "income": 19637,
+                    "life_exp": 77.9,
+                    "population": 3903986
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Bermuda",
+                    "income": 48728,
+                    "life_exp": 78.4,
+                    "population": 62382
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Jamaica",
+                    "income": 8462,
+                    "life_exp": 74.8,
+                    "population": 2862087
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Costa Rica",
+                    "income": 13713,
+                    "life_exp": 80.2,
+                    "population": 4757575
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Bolivia",
+                    "income": 6153,
+                    "life_exp": 72.9,
+                    "population": 10562159
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Canada",
+                    "income": 42817,
+                    "life_exp": 81.7,
+                    "population": 35604728,
+                    "gdp": 1788.717
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Guatemala",
+                    "income": 7181,
+                    "life_exp": 72.4,
+                    "population": 15923559
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Argentina",
+                    "income": 17519,
+                    "life_exp": 76.3,
+                    "population": 42981515,
+                    "gdp": 540.164
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Guyana",
+                    "income": 6545,
+                    "life_exp": 66.4,
+                    "population": 763393
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Haiti",
+                    "income": 1670,
+                    "life_exp": 63.8,
+                    "population": 10572466
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Grenada",
+                    "income": 11400,
+                    "life_exp": 71.4,
+                    "population": 106360
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Cuba",
+                    "income": 20122,
+                    "life_exp": 78.1,
+                    "population": 11439767
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Mexico",
+                    "income": 16496,
+                    "life_exp": 75.6,
+                    "population": 124221600,
+                    "gdp": 1282.725
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Colombia",
+                    "income": 12447,
+                    "life_exp": 77.8,
+                    "population": 47791911,
+                    "gdp": 384.901
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "St. Vincent and the Grenadines",
+                    "income": 10131,
+                    "life_exp": 71.1,
+                    "population": 109357
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Nicaragua",
+                    "income": 4574,
+                    "life_exp": 77.8,
+                    "population": 6013997
+                  },
+                  {
+                    "continent": "americas",
+                    "name": "Brazil",
+                    "income": 15412,
+                    "life_exp": 74.3,
+                    "population": 204213133,
+                    "gdp": 2353.025
+                  },
+                          {
+                            "continent": "americas",
+                            "name": "Paraguay",
+                            "income": 8038,
+                            "life_exp": 74.3,
+                            "population": 6552584
+                          }
+                  ]
+                }
+          ]
+  }
+
+
